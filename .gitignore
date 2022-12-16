@@ -1,0 +1,5 @@
+*.tif
+*.tiff
+*.isxd
+images/
+images_unpadded/
